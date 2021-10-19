@@ -1,4 +1,4 @@
-Lab 10 - Questions
+Lab 06 - Questions
 Authors: <Your Name>
 
 Whenever you make changes to this file, issue the following git commands
@@ -6,7 +6,7 @@ Whenever you make changes to this file, issue the following git commands
 line prompt):
 
 $ git add questions.txt
-$ git commit -m "CSC232-LAB10 - appropriate message as instructed"
+$ git commit -m "CSC232-LAB06 - appropriate message as instructed"
 $ git push
 
 When answering your questions, make sure the lines are no longer than this ---->
